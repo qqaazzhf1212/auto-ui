@@ -1,0 +1,4 @@
+INFO     pyui:base_case.py:14 ============登录功能测试开始=============
+INFO     pyui:test_login.py:30 ==========登录成功开始测试============
+INFO     pyui:test_login.py:31 =========={'username': 'admin', 'password': 123456}开始测试============
+INFO     pyui:base_case.py:19 ============登录功能测试结束=============

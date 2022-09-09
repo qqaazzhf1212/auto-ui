@@ -1,0 +1,10 @@
+.side-nav__brand {
+  background: url('itest.png')  no-repeat left center !important;
+  margin-left: 10px;
+  width:174px;
+  height:44px;
+  background-size:164px 60px !important;
+}
+.side-nav__brand-text{
+	display:none !important;
+}
